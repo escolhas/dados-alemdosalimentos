@@ -1,11 +1,6 @@
-# Áreas Urbanizadas, 2015
+# Provisão de alimentos, 2019
 
-Projeção WGS 84
 
-UTF-8
+[Arquivo tif]()
 
-[Arquivo Geojson](raw/areas_urbanizadas/areas_urbanizadas.geojson)
-
-Fonte: Instituto Brasileiro de Geografia e Estatística (IBGE).
-
-Disponível em http://ibge.gov.br
+Fonte: Elaboração própria a partir do Mapa de uso do solo - MapBiomas 2020.

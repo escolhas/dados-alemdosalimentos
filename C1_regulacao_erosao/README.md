@@ -1,11 +1,6 @@
-# Áreas Urbanizadas, 2015
+# Regulação da erosão, Cenário 1
 
-Projeção WGS 84
+Indicador = Retenção de sedimentos, ton/ano
+[Arquivo tif]()
 
-UTF-8
-
-[Arquivo Geojson](raw/areas_urbanizadas/areas_urbanizadas.geojson)
-
-Fonte: Instituto Brasileiro de Geografia e Estatística (IBGE).
-
-Disponível em http://ibge.gov.br
+Fonte: Elaboração própria.
