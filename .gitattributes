@@ -1,0 +1,15 @@
+C1_producao_agua/AWY_Realizedsuplly_C1.tif filter=lfs diff=lfs merge=lfs -text
+C1_regulacao_erosao/sed_retention_R180221_SDR_C1.tif filter=lfs diff=lfs merge=lfs -text
+2019_regulacao_erosao/sed_retention_R180221_SDR_2019.tif filter=lfs diff=lfs merge=lfs -text
+C1_mitigacao_calor/hm_R180221_UCM_C1.tif filter=lfs diff=lfs merge=lfs -text
+2019_mitigacao_inundacao/Runoff_retention_m3_R180221_UFM_2019.tif filter=lfs diff=lfs merge=lfs -text
+2019_provisao_alimentos/LULC_2019.tif filter=lfs diff=lfs merge=lfs -text
+BAU_provisao_alimentos/LULC_BAU_lavtemp.tif filter=lfs diff=lfs merge=lfs -text
+BAU_regulacao_erosao/sed_retention_R180221_SDR_BAU.tif filter=lfs diff=lfs merge=lfs -text
+C1_mitigacao_inundacao/Runoff_retention_m3_R180221_UFM_C1.tif filter=lfs diff=lfs merge=lfs -text
+C1_provisao_alimentos/LULC_CENARIO1_FINAL.tif filter=lfs diff=lfs merge=lfs -text
+BAU_mitigacao_calor/hm_R180221_UCM_BAU.tif filter=lfs diff=lfs merge=lfs -text
+BAU_mitigacao_inundacao/Runoff_retention_m3_R180221_UFM_BAU.tif filter=lfs diff=lfs merge=lfs -text
+BAU_producao_agua/AWY_Realizedsuplly_BAU.tif filter=lfs diff=lfs merge=lfs -text
+2019_mitigacao_calor/hm_R180221_UCM_2019.tif filter=lfs diff=lfs merge=lfs -text
+2019_producao_agua/AWY_Realizedsuplly_2019.tif filter=lfs diff=lfs merge=lfs -text
